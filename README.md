@@ -1,7 +1,17 @@
 # node-typescript
 The "perfect" starter template for node + typescript project
 
+### Usage
 
+### Installation
+
+```bash
+# Clone the repository
+git clone Aayush9029/node-typescript
+
+# Remove the .git folder
+cd node-typescript && rm -rf .git
+```
 
 ### npm commands
     
