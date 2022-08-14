@@ -11,6 +11,9 @@ gh repo clone Aayush9029/node-typescript
 
 # Remove the .git folder
 cd node-typescript && rm -rf .git
+
+# Install npm packages
+npm install
 ```
 
 ### npm commands
