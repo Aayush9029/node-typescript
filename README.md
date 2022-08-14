@@ -7,7 +7,7 @@ The "perfect" starter template for node + typescript project
 
 ```bash
 # Clone the repository
-git clone Aayush9029/node-typescript
+gh repo clone Aayush9029/node-typescript
 
 # Remove the .git folder
 cd node-typescript && rm -rf .git
