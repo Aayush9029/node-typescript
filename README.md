@@ -6,11 +6,7 @@ The "perfect" starter template for node + typescript project
 ### Installation
 
 ```bash
-# Clone the repository
-gh repo clone Aayush9029/node-typescript
-
-# Remove the .git folder
-cd node-typescript && rm -rf .git
+# Click Use This Template
 
 # Install npm packages
 npm install
